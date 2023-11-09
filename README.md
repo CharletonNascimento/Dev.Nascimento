@@ -2,8 +2,8 @@
 ### 👨‍💻Olá  Me chamo Charleton Nascimento e sou estudante do curso Analise e Desenvolvimento de Sistemas 👨‍💻
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/charletonnascimento?locale=pt_BR)
+[![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charleton-nascimento-4ab598b4/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/charleton_nascimento/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharletonNascimento)
 [![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5581997594291)
 
 ![Charleton GitHub stats](https://github-readme-stats.vercel.app/api?username=CharletonNascimento&show_icons=true&theme=dracula)
